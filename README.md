@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Syl! (she/her)
 
-##I'm a Front End Web Developer, a professional hobby dabbler, a gamer, an avid potter and a proud plant mom. 
+## I'm a Front End Web Developer, a professional hobby dabbler, a gamer, an avid potter and a proud plant mom. 
 
  ### :computer: I'm currently working on:
   - My React skills
