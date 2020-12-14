@@ -29,6 +29,8 @@ I recently shifted careers from internal operations and the culinary industry du
   - Anything Zelda!
   - Animal Crossing 
   - Mario Kart
+  
+  <img src="https://placekitten.com/g/200/300">
  
 
 <!--
