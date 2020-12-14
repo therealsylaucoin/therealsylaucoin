@@ -13,7 +13,7 @@ I recently shifted careers from internal operations and the culinary industry du
  - Redux
  - Vanilla JS
  
-  ### :sparkles: In 2021 I want to learn: 
+ <h3> :sparkles: In 2021 I want to learn: </h3>
  - Python
  - Vue.js
  
