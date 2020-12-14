@@ -4,6 +4,9 @@
 
 I recently shifted careers from internal operations and the culinary industry due to Covid-19. I've always been surrounded by devs (friends and colleagues) and interested in learning but never made the time to do so. Getting laid off during Covid-19 gave me the time I needed to finally take the leap and learn. I am currently a student at Juno College, and wrapping up the web dev bootcamp (cohort 30). I'm excited to make a positive impact on the world, one line of code at a time! 
 
+## My skillset includes:
+![css](/assets/icons8-css3-50.png)  ![html](/assets/icons8-html-5-50.png)  ![js](/assets/icons8-javascript-logo-50.png)  ![jquery](/assets/icons8-jquery-50.png)  ![sass](/assets/icons8-sass-50.png) ![react](/assets/icons8-react-native-50.png)  ![accessibility](/assets/icons8-web-accessibility-50.png)  ![Rest api](/assets/icons8-rest-api-48.png)
+
 ### :computer: I'm currently working on:
 - My React skills
 - My personal portfolio!
@@ -43,6 +46,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-## My skillset includes:
-![css](/assets/icons8-css3-50.png)
+ ![responsive design](/assets/icons8-responsive-100.png)
+
 -->
