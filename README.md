@@ -14,8 +14,10 @@ I recently shifted careers from internal operations and the culinary industry du
  - Vanilla JS
  
  <h3> :sparkles: In 2021 I want to learn: </h3>
- - Python
- - Vue.js
+ <ul>
+ <li>Python</li>
+ <li>Vue.js</li>
+ </ul>
  
  ###  :speech_balloon: Ask me about: Plants!
  - I have over 60 thriving plants at home, big and small.
