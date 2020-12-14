@@ -3,8 +3,8 @@
 ##I'm a Front End Web Developer, a professional hobby dabbler, a gamer, an avid potter and a proud plant mom. 
 
  ### :computer: I'm currently working on:
-  - My React skills.
-   -My personal portfolio!
+  - My React skills
+  - My personal portfolio!
  
  ### :books:I'm currently learning: 
  - Redux
