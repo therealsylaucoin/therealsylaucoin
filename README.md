@@ -2,7 +2,7 @@
 
 ## I'm a Front End Web Developer, a professional hobby dabbler, a gamer, an avid potter and a proud plant mom. 
 
-I recently shifted careers from internal operations and the culinary industry due to Covid-19. I've always been surrounded by devs (friends and colleagues) and interested in learning but never made the time to do so. Getting laid off during Covid-19 gave me the time I needed to finally take the leap and learn. I am currently a student at Juno College, and wrapping up the web dev bootcamp (cohort 30). I'm excited to make a positive impact on the world, one line of code at a time! 
+I recently shifted careers from internal operations and the culinary industry due to Covid-19. I've always been surrounded by devs (friends and colleagues) and interested in learning but never made the time to do so. Getting laid off during Covid-19 gave me the time I needed to finally take the leap and learn. I recently completed the Web Develoment Immersive Bootcamp at Juno College. I'm excited to make a positive impact on the world, one line of code at a time! 
 
 ## My skillset includes:
 ![css](/assets/icons8-css3.png)  ![html](/assets/icons8-html-5.png)  ![js](/assets/icons8-javascript.png)  ![jquery](/assets/icons8-jquery.png)  ![sass](/assets/icons8-sass.png) ![react](/assets/icons8-react-native.png)  ![accessibility](/assets/icons8-web-accessibility.png)  ![Rest api](/assets/icons8-rest-api.png)   ![responsive design](/assets/icons8-responsive.png)
