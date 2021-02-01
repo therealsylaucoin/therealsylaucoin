@@ -9,12 +9,12 @@ I recently shifted careers from internal operations and the culinary industry du
 
 ### :computer: I'm currently working on:
 - My React skills
-- My personal portfolio!
+- A fun movie ratign app for me and my pals.
 - A POE app to help organize your new build every season (where to get items and at what level)
  
 ### :books:I'm currently learning: 
 - React Context APi
-- Vanilla JS
+- MAsterign javascript fundamentals
  
 ### :sparkles: In 2021 I want to learn: 
 - Python
