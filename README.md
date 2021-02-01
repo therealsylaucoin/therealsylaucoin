@@ -9,7 +9,7 @@ I recently shifted careers from internal operations and the culinary industry du
 
 ### :computer: I'm currently working on:
 - My React skills
-- A fun movie ratign app for me and my pals.
+- A fun movie rating app for me and my pals.
 - A POE app to help organize your new build every season (where to get items and at what level)
  
 ### :books:I'm currently learning: 
