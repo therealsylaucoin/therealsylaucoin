@@ -13,13 +13,11 @@ I recently shifted careers from internal operations and the culinary industry du
 - A POE app to help organize your new build every season (where to get items and at what level)
  
 ### :books:I'm currently learning: 
-- React Context APi
-- MAsterign javascript fundamentals
+- React Redux
+- So many other new things in relation to my work!
  
 ### :sparkles: In 2021 I want to learn: 
-- Python
 - Vue.js
-- Redux
  
 ###  :speech_balloon: Ask me about: Plants!
 - I have over 60 thriving plants at home, big and small.
