@@ -2,7 +2,7 @@
 
 ## I'm a Toronto based Web Developer. 
 
-I'm a Juno College graduate and m currently spending my days contributing to Loblaw Digital's PC Optimum website. I'm excited to make a positive impact on one of Canada's most popular point redemption program one line of code at a time! 
+I'm a Juno College graduate and am currently spending my days contributing to Loblaw Digital's PC Optimum website. I'm excited to make a positive impact on one of Canada's most popular point redemption program one line of code at a time! 
 
 ## My skillset includes:
 ![css](/assets/icons8-css3.png)  ![html](/assets/icons8-html-5.png)  ![js](/assets/icons8-javascript.png)  ![jquery](/assets/icons8-jquery.png)  ![sass](/assets/icons8-sass.png) ![react](/assets/icons8-react-native.png)  ![accessibility](/assets/icons8-web-accessibility.png)  ![Rest api](/assets/icons8-rest-api.png)   ![responsive design](/assets/icons8-responsive.png)
