@@ -9,15 +9,15 @@ I'm a Juno College graduate and am currently spending my days contributing to Lo
 
 ### :computer: I'm currently working on:
 - My Redux skills
-- A fun movie rating app for me and my pals.
-- A POE app to help organize your new build every season (where to get items and at what level)
+- Mastering TypeScript
  
 ### :books:I'm currently learning: 
 - Test driven development
+- Ionic
 - So many other new things in relation to my work!
  
-### :sparkles: In 2021 I want to learn: 
-- Typescript
+### :sparkles: In 2022 I want to learn: 
+- Mobile development
  
 ###  :speech_balloon: Ask me about: Plants!
 - I have over 60 thriving plants at home, big and small.
